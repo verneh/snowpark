@@ -1,4 +1,4 @@
-## My Hacky Instructions ##
+## My Instructions ##
 1) Download Miniconda. once it's downloaded...
 2) Run Miniconda Command Prompt.
 3) Type the word 'code' to open vscode. Make sure to open vscode -> "run as administrator"
